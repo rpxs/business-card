@@ -1,40 +1,32 @@
 {
     "info": {
-        "name": "Brad Garropy",
-        "handle": "bradgarropy",
-        "company": "Adobe",
-        "title": "Senior Frontend Developer"
+        "name": "rpxs",
+        "handle": "rpxs",
+        "company": "Freelancing",
+        "title": "Full Stack Web Developer"
     },
     "links": [
         {
             "name": "Website",
-            "url": "https://bradgarropy.com"
+            "url": "https://rpxs.me"
         },
         {
             "name": "Twitch",
-            "url": "https://twitch.tv/bradgarropy"
+            "url": "https://twitch.tv/rpxss"
         },
         {
             "name": "GitHub",
-            "url": "https://github.com/bradgarropy"
+            "url": "https://github.com/rpxs"
         },
         {
             "name": "Twitter",
-            "url": "https://twitter.com/bradgarropy"
+            "url": "https://twitter.com/rpxs0"
         },
-        {
-            "name": "YouTube",
-            "url": "https://youtube.com/bradgarropy"
-        },
-        {
-            "name": "LinkedIn",
-            "url": "https://linkedin.com/in/bradgarropy"
-        }
     ],
     "style": {
         "corners": "double",
         "divider": "triple",
-        "baseColor": "white",
+        "baseColor": "blueBright",
         "accentColor": "blue"
     }
 }
