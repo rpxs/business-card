@@ -1,6 +1,6 @@
 {
-    "name": "bradgarropy",
-    "version": "2.4.0",
+    "name": "rpxs",
+    "version": "1.0.0",
     "description": "🃏 npx business card",
     "keywords": [
         "npm",
@@ -12,26 +12,26 @@
         "business-card",
         "inquirer"
     ],
-    "homepage": "https://github.com/bradgarropy/business-card",
+    "homepage": "https://github.com/rpxs/business-card",
     "bugs": {
-        "url": "https://github.com/bradgarropy/business-card/issues"
+        "url": "https://github.com/rpxs/business-card/issues"
     },
     "license": "MIT",
     "author": {
-        "name": "Brad Garropy",
-        "email": "bradgarropy@gmail.com",
-        "url": "https://bradgarropy.com"
+        "name": "rpxs",
+        "email": "vedoka100@gmail.com",
+        "url": "https://rpxs.me"
     },
     "files": [
         "dist"
     ],
     "main": "dist/index.js",
     "bin": {
-        "bradgarropy": "dist/index.js"
+        "rpxs": "dist/index.js"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/bradgarropy/business-card"
+        "url": "https://github.com/rpxs/business-card"
     },
     "scripts": {
         "start": "node src/index.js",
